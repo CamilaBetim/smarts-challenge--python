@@ -13,11 +13,11 @@ Resposta:
    * [ ] Scheduling
    * [ ] Vim
    * [ ] Task
-   * [ ] Cron
+   * [x] Cron
 
 4. Bob não utilizará mais a pasta correspondente ao setor financeiro, porém, a Alice que é deste setor, precisa ser a nova proprietária dessa pasta. Qual o comando em GNU/Linux para essa tal finalidade?
    * [ ] chroot
-   * [ ] chmod
+   * [x] chmod
    * [ ] chown
    * [ ] attrib
 
