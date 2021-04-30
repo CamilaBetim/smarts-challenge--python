@@ -6,6 +6,9 @@ Faça um script/sistema, em qualquer linguagem de programação, que escreva tod
 
 Atualize este README sobre como rodar em desenvolvimento e como efetuar o deploy, se aplicável.
 
+
+
+
 #Início do Script
 valor= -71                             #definimos aqui o valor inicial que iremos mostrar
 while valor <= 103:                    #fazemos um enquanto, para que o programa faça esse processo abaixo até que ele seja menor ou igual a 103.  
