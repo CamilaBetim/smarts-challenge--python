@@ -28,7 +28,7 @@ q= len(array) - 1      #o len irá retornar quantas posições tem dentro do arr
 while n < q:                                    #enquanto n for menor q ele fará o seguinte processo: 
                                                 #1: o array[n] irá receber o array[q], e o array[q] irá receber o array[n], realizando assim a inversão
     array[n], array[q] = array[q], array[n] 
-    n += 1                                      #2 aqui ele incremente o i
+    n += 1                                      #2 aqui ele incrementa o i
     q -= 1                                      #3 aqui ele decrementa o j 
 ```
 ### Depois de finalizar o enquanto, traremos na tela o array inverso
