@@ -5,12 +5,18 @@
 #Início do Script
 
 array= ["The", "quick", "Brown", "fox", "jumps", "over", "the", "lazy", "dog"]
-print ("Nossa array é :", array)
 
-array_invertida= array[::-1]
+print("Dados contidos no array:", array)
 
-print ("Nossa array invertida fica:", array_invertida)
+n= 0
+q= len(array) - 1
 
+while n < q:
+    array[n], array[q] = array[q], array[n]
+    n += 1
+    q -= 1
+    
+ print("Array inverso:", array)
 
 quit()
 
