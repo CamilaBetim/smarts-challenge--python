@@ -26,7 +26,7 @@ print()
 print ("Terceiro array:", lista3)
 print()
 ```
-### Então iremos criar a variavel juncao, que contém a soma dos três arrays:
+### Então iremos criar a variável juncao, que contém a soma dos três arrays:
 ```python
 juncao= lista1+lista2+lista3
 ```
