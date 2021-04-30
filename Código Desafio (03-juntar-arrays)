@@ -23,3 +23,5 @@ print ("Array unidos:", juncao)
 quit()
 
 #Fim do Sript
+
+#No repositório, tem disponível o readme deste código explicando sua estrutura, o nome do arquivo é: (03-juntar-arrays)Readme.md
