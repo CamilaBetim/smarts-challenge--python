@@ -12,7 +12,8 @@ Atualize este README sobre como rodar em desenvolvimento e como efetuar o deploy
 ```python
 valor= -71                             
 ```
-###Após isso, fazemos um enquanto, para que o programa faça esse processo abaixo até que o número armazenado na variável valor seja menor ou igual a 103. 
+### Após isso, fazemos um enquanto, para que o programa faça esse processo abaixo até que o número armazenado na variável valor seja menor ou igual a 103. 
+```python
 while valor <= 103:                     
     if valor%3 == 0:                   #se a divisão por 3 da varíavel valor for igual a 0, então ele trará na tela a palavra "Smart"       
        print ("Smart")
@@ -23,6 +24,7 @@ while valor <= 103:
              print (valor)            #se a divisão da variável valor por 5 ou 3 não der 0, ele trará na tela o número armazenado dentro dessa variável.
 ```         
 ### Precisamos no final, armazenar na varíavel valor a soma valor+1, para que ele possa trazer o número posterior ao armazenado antes, e assim sucessivamente até o valor chegar em 103.
+```python
      valor=valor+1                      
 quit()
 ```
