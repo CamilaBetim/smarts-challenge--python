@@ -7,11 +7,8 @@ Faça um script/sistema, em qualquer linguagem de programação, que escreva tod
 Atualize este README sobre como rodar em desenvolvimento e como efetuar o deploy, se aplicável.
 
 #Início do Script
-
 valor= -71                             #definimos aqui o valor inicial que iremos mostrar
-
 while valor <= 103:                    #fazemos um enquanto, para que o programa faça esse processo abaixo até que ele seja menor ou igual a 103.  
-
     if valor%3 == 0:                   #se a divisão por 3 da varíavel valor for igual a 0, então ele trará na tela a palavra "Smart"       
        print ("Smart")
     else:
