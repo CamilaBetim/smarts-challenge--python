@@ -1,0 +1,12 @@
+valor= -71                               #definimos aqui o valor inicial que iremos mostrar
+while valor <= 103:                      #fazemos um enquanto, para que o programa faça esse processo abaixo até que ele seja menor ou igual a 103.
+    if valor%3 == 0:                     #se a divisão por 3 da varíavel valor for igual a 0, então ele trará na tela a palavra "Smart"
+       print ("Smart")
+    else:
+         if valor%5 == 0:                #se a divisão por 5 da varíavel valor for igual a 0, então ele trará na tela a palavra "Staff"
+            print ("Staff")
+         else:
+             print (valor)               #se a divisão da variável valor por 5 ou 3 não der 0, ele trará na tela o número armazenado dentro dessa variável.
+    valor=valor+1                        #precisamos no final, armazenar na varíavel valor a soma valor+1, para que ele possa trazer o número posterior ao armazenao antes
+
+quit()
