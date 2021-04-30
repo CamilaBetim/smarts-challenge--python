@@ -37,10 +37,10 @@ Conclusão: Cada um deverá pagar R$343,75 a Tício.
    * [ ] p (v), q (v) = p^q (v)
    * [ ] p (v), q (f) = p^q (f)
    * [ ] p (f), q (v) = p^q (f)
-   * [ ] p (f), q (f) = p^q (v)
+   * [ ] p (f), q (f) = p^q (v) -> verdadeiro
 
 4. Supondo que você tenha uma lista de 100 bug's para resolver, mas consegue resolver apenas 13 em um único dia. Explique como você escolheria os 13 bug's.
-Resposta: Escolheria os bugs que possuem maior prioridade, aqueles que estão dando um dano maior ao sistema, que pode prejudicar mais o aproveitamento do trabalho, e talvez até mesmo deixar o sistema indisponível. Deixaria como segunda prioridade os bugs que não prejudicassem tanto naquele atual momento, que pudessem ser tratados com menas urgência. 
+Resposta: Escolheria os bugs que possuem maior prioridade, aqueles que estão dando um dano maior ao sistema, que pode prejudicar mais o aproveitamento do trabalho, e talvez até mesmo deixar o sistema indisponível. Deixaria como segunda prioridade os bugs que não prejudicassem tanto naquele atual momento, que pudessem ser tratados com menos urgência. 
 
 5. Como a Smart Staff ganha dinheiro?
 Resposta: Acredito que a Smart Staff ganhe dinheiro fornecendo soluções inteligentes para seus clientes, de forma que facilite a forma de trabalho dos clientes, possibilitando que eles tenham um maior aproveitando de seu trabalho, e uma maior automatização de suas tarefas, se tornando essencial trabalhar junto com a Smart Staff. Além disse, a Smart Staff fornece ferramentas seguras e que aumentam sua produtividade, beneficiando também seus clientes.
