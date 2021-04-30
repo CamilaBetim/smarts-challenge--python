@@ -8,7 +8,7 @@ Atualize este README sobre como rodar em desenvolvimento e como efetuar o deploy
 
 ## Como realizar o script do desafio:
 
-### Primeiramente, precisamos definir o valor inicial que será armazenado em um variável valor, como a contagem começa do número -71, é ele que iremos armazenar:
+### Primeiramente, precisamos definir o valor inicial que será armazenado em uma variável valor, como a contagem começa do número -71, é ele que iremos armazenar:
 ```python
 valor= -71                             
 ```
