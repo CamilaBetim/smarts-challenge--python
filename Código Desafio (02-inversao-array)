@@ -2,7 +2,7 @@
 #Desafio: Faça um script/sistema, em qualquer linguagem de programação, que faça a inversão do um array alfanumérico abaixo (não é permitido utilizar funções prontas da linguagem/framework/biblioteca):
 ['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']
 
-#Início do Script#
+#Início do Script
 
 array= ["The", "quick", "Brown", "fox", "jumps", "over", "the", "lazy", "dog"]
 print ("Nossa array é :", array)
@@ -14,4 +14,7 @@ print ("Nossa array invertida fica:", array_invertida)
 
 quit()
 
-#Fim do Script#
+#Fim do Script
+
+#No repositório, tem disponível o readme deste código explicando sua estrutura, o nome do arquivo é: (02-inversao-array)Readme.md
+
