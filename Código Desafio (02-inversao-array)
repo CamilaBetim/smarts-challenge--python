@@ -1,1 +1,16 @@
 
+#Desafio 
+
+#Início do Script#
+
+array= ["The", "quick", "Brown", "fox", "jumps", "over", "the", "lazy", "dog"]
+print ("Nossa array é :", array)
+
+array_invertida= array[::-1]
+
+print ("Nossa array invertida fica:", array_invertida)
+
+
+quit()
+
+#Fim do Script#
