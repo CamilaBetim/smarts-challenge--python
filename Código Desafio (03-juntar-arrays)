@@ -1,2 +1,25 @@
-#Desafio: Faça um script/sistema, em qualquer linguagem de programação, que junte/mescle/una os arrays abaixo, seguindo a ordem apresentada (não é permitido utilizar funções prontas da linguagem/framework/biblioteca):
+#Faça um script/sistema, em qualquer linguagem de programação, que junte/mescle/una os arrays abaixo, seguindo a ordem apresentada (não é permitido utilizar funções prontas da linguagem/framework/biblioteca):
+#[0, 1, 2, 3, 4, 5]
+#['The', 'quick', 'brown', 'fox', 'jumps', 'over', 'the', 'lazy', 'dog']
+#[6, 7, 8, 9, 10]
 
+#Começo do script
+
+lista1= [0, 1, 2, 3, 4, 5]
+lista2= ["The", "quick", "brown", "fox", "jumps", "over", "the", "lazy", "dog"]
+lista3= [6, 7, 8, 9, 10]
+
+print ("Primeiro array:", lista1)
+print()
+print ("Segundo array:", lista2)
+print()
+print ("Terceiro array:", lista3)
+print()
+
+juncao= lista1+lista2+lista3
+
+print ("Array unidos:", juncao)
+
+quit()
+
+#Fim do Sript
