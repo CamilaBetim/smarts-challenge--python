@@ -2,11 +2,15 @@
 
 Resposta: 
 Ultrabook= R$ 7.200,00
+
 Fone= R$120,00
+
 Mouse= R$80,00
 
 Soma= 7.200+120+80
+
 Soma= R$ 7.400,00
+
 Desconto = 25%
 
 Fazendo uma regra de três temos:
@@ -14,12 +18,17 @@ Fazendo uma regra de três temos:
 X = 25%
 
 100X= 7400*25
+
 100X= 185000
+
 X = 185000 / 100
+
 X= 1850
 
 Valor do desconto = R$ 1850,00
+
 Valor = 7400,00 - 1850,00
+
 Valor final a pagar = R$5.500,00
 
 Conclusão: O sistema computou o valor errado
@@ -40,12 +49,15 @@ Conclusão: Cada um deverá pagar R$343,75 a Tício.
    * [ ] p (f), q (f) = p^q (v) -> verdadeiro
 
 4. Supondo que você tenha uma lista de 100 bug's para resolver, mas consegue resolver apenas 13 em um único dia. Explique como você escolheria os 13 bug's.
+
 Resposta: Escolheria os bugs que possuem maior prioridade, aqueles que estão dando um dano maior ao sistema, que pode prejudicar mais o aproveitamento do trabalho, e talvez até mesmo deixar o sistema indisponível. Deixaria como segunda prioridade os bugs que não prejudicassem tanto naquele atual momento, que pudessem ser tratados com menos urgência. 
 
 5. Como a Smart Staff ganha dinheiro?
+
 Resposta: Acredito que a Smart Staff ganhe dinheiro fornecendo soluções inteligentes para seus clientes, de forma que facilite a forma de trabalho dos clientes, possibilitando que eles tenham um maior aproveitando de seu trabalho, e uma maior automatização de suas tarefas, se tornando essencial trabalhar junto com a Smart Staff. Além disse, a Smart Staff fornece ferramentas seguras e que aumentam sua produtividade, beneficiando também seus clientes.
 
 6. Você prefere enfrentar um coelho do tamanho de um rinoceronte, ou 87 rinocerantes do tamanho de um coelho? Justifique.
+
 Resposta: Prefiro enfrentar um coelho do tamanho de um rinoceronte, pois apesar de o coelho ser grande, ele é um animal mais dócil que o rinoceronte, e também acredito que mais fácil de lidar. Quanto temos 87 rinocerontes, apesar de serem pequenos, são muitos, e podemos não conseguir dar conta dessa quantidade se todos atacarem de uma vez só, pode ser fatal. 
 
 7. Existiam 5 macacos, todos super inteligentes e muito egoístas. O macaco líder recebeu 234 bananas. Ele sabia que se não dividisse as bananas com os outros 4 macacos, ele seria expulso do grupo. Ele sabia também que pelo menos 50% de todos os macacos deveriam concordar com a divisão, caso contrário ele seria expulso do grupo, e o próximo macaco a assumir a liderança deveria fazer a divisão, com as mesmas premissas, e assim sucessivamente. Qual a melhor maneira do macaco líder fazer a divisão das bananas e continuar no grupo? 
