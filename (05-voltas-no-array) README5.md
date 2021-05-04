@@ -86,7 +86,7 @@ Esse valor irá passar por outra condição agora, basicamente, se o valor prese
 
 Se a posição 0 não for = 2, então o nosso n irá receber a posição 0 do array como valor, e ele continuará o looping, passando pelas próximas posições até n ser maior que q.
 
-### Nesse processo, iremos quais posições do array ainda não foram visitadas:
+### Nesse processo, veremos quais posições do array ainda não foram visitadas:
 ```python
 for n in range(i):      # Iremos fazer um for, o n irá percorrer a quantidade de vezes que possui na variável i, essa por sua vez armazena a quantidade de posições que no item1
     if item1[n]==0:             # Aqui nós iremos fazer uma condição que, se a posição atual do item1 for igual 0, ele realizará o seguinte processo:
