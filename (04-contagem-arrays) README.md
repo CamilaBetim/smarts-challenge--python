@@ -21,33 +21,53 @@ Atualize este README sobre como rodar em desenvolvimento e como efetuar o deploy
 # Como desenvolver o script 
 
 ### Primeiro nós criamos as variáveis que vão aramazenar nossos arrays, uma para o array de entrada e outra para o array de verificação:
+```python
 entrada= ["ab", "bc", "abc", "cba", "ab", "ab", "cba"]
 verificacao= ["ab", "cba", "bb"]
-
+```
+### Após isso iremos trazer na tela quais são os valores do array de entrada e do array de verificação:
+```python
 print("Array de entrada:", entrada)
 print()
 print("Array de verificação:", verificacao)
 print()
+```
+### Agora iremos criar algumas variavéis que irão nos ajudar no processo:
+```python
+contador=0          #Irá armazenar a quantidade de vezes que o item "ab" aparece no array de entrada
+contador1=0         #Irá armazenar a quantidade de vezes que o item "cba" aparece no array de entrada
+contador2=0         #Irá armazenar a quantidade de vezes que o item "bb" aparece no array de entrada
+n= 0                # Essa variável irá armanezar a posição de cada valor do array 
+q= len(entrada)     # Essa variável significa a quantidade de valores que tem no array entrada
+```
 
-contador=0
-contador1=0
-contador2=0
-n= 0
-q= len(entrada) 
-
-while n < q:
-    if entrada[n] ==verificacao[0]:
-       contador=contador+1
+### Iremos fazer um enquanto, que irá verificar se os valores que estão presentes array de entrada, são iguais aos valores do array de verificação:
+```python
+while n < q:                                         # Enquanto n for menor que a quantidade de valores que existe dentro do array entrada, fazemos:
+    if entrada[n] ==verificacao[0]:                 # Se o valor que está na posição 0 do array de entrada, for igual ao valor que está na posição 0 do array de verificação
+       contador=contador+1                          # O contador irá adicionar 1 
     else:
-         if entrada[n] ==verificacao[1]:
-            contador1=contador1+1
+         if entrada[n] ==verificacao[1]:            # Se o valor que está na posição 0 do array de entrada, for igual ao valor que está na posição 1 do array de verificação
+            contador1=contador1+1                   # O contador1 irá adicionar 1
          else:
-              if entrada[n] ==verificacao[2]:
-                  contador2=contador2+1
-    n=n+1     
-                  
+              if entrada[n] ==verificacao[2]:       # Se o valor que está na posição 0 do array de entrada, for igual ao valor que está na posição 2 do array de verificação
+                  contador2=contador2+1             # O contador2 irá adicionar 1 
+    n=n+1                                           # Depois disso ele adicionará mais 1 na variável n, para fazer o mesmo processo com todos os valores do array de entrada.
+ ```               
     
-
+### Depois que ele finalizar o processo, iremos fazer um novo array com o valor contido no contador, contador1 e contador2
+```python
 arrayfinal= [contador, contador1, contador2]
-
+ ```  
+### E então ele trará na tela o resultado que armazenamos em cada variável dentro de um array:
+```python
 print("Resultado array:", arrayfinal)
+ ```  
+ 
+ # Fotos do código realizado e o resultado que obtivemos após rodá-lo:
+ ![image](https://user-images.githubusercontent.com/83428347/117064374-7fc0a600-acfc-11eb-9571-44176157a0b9.png)
+ 
+ ![image](https://user-images.githubusercontent.com/83428347/117064407-8bac6800-acfc-11eb-920b-653ee2706737.png)
+
+
+ 
