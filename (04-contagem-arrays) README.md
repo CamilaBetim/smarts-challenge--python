@@ -68,6 +68,9 @@ print("Resultado array:", arrayfinal)
  ![image](https://user-images.githubusercontent.com/83428347/117064374-7fc0a600-acfc-11eb-9571-44176157a0b9.png)
  
  ![image](https://user-images.githubusercontent.com/83428347/117064407-8bac6800-acfc-11eb-920b-653ee2706737.png)
+ 
+ # Aplicação
+ Podemos utilizar esse tipo de código, para encontrar determinadas palavras ou carateres em um pdf, um arquivo de texto com muita informação, basicamente uma busca para verificarmos quantas vezes aparece determinado caracter e saber se ele existe.
 
 
  
