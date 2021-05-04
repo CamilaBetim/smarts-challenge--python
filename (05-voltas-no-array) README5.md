@@ -96,8 +96,8 @@ for n in range(i):      # Iremos fazer um for, o n irá percorrer a quantidade d
            n = array1[n]            # n irá receber o valor da posição atual do array1
  ```
            
-É importante entender a finalidade do código nessa parte: Basicamente, ele irá pegar todos os valores presente no array item1, e verificar se tem algum que vale 0. Se tiver algum, significa que ele não foi visitado nenhuma vez, a volta acabou antes de chegar nele, porém precisamos rodar ele também. 
-Então fazemos o seguinte proesso, iremos criar um equanto, que diz que enquanto esse valor for diferente de 2 ( ou seja enquanto não finalizar a volta), o a posição do item1 atual irá receber +1 e o logo em seguida o n irá receber o valor da posição atual do array1, e esse processo será feito em looping até item1[n] ==2.
+É importante entender a finalidade do código nessa parte: Basicamente, ele irá pegar todos os valores presentes no array item1, e verificar se tem algum que vale 0. Se tiver algum, significa que ele não foi visitado nenhuma vez, a volta acabou antes de chegar nele, porém precisamos rodar ele também. 
+Então fazemos o seguinte proesso, iremos criar um equanto, que diz que enquanto esse valor for diferente de 2 ( ou seja enquanto não finalizar a volta), a posição do item1 atual irá receber +1 e logo em seguida o n irá receber o valor da posição atual do array1, e esse processo será feito em looping até item1[n] ==2.
 
 
 ### Aqui nós iremos armazenar na váriavel contador, a quantidade de vezes que o valor 2 aparece no array item1 ( ou seja, a quantidade de vezes que tivemos voltas no array)
