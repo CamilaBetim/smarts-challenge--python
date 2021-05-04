@@ -172,3 +172,14 @@ for k in range(i3):
  ```python
 print( "O número de voltas que temos no array 3, é igual a:", contador2)
 ```
+# Segue fotos do código feito e do resultado que obtivemos após ele rodar:
+![image](https://user-images.githubusercontent.com/83428347/117071242-3759b600-ad05-11eb-924b-985f3773a42f.png)
+
+![image](https://user-images.githubusercontent.com/83428347/117071268-43457800-ad05-11eb-9f5d-e0ccff12d77f.png)
+
+![image](https://user-images.githubusercontent.com/83428347/117071298-4e98a380-ad05-11eb-995f-1cd9edde31ac.png)
+
+![image](https://user-images.githubusercontent.com/83428347/117071345-607a4680-ad05-11eb-8e67-30114cff49c1.png)
+
+
+
