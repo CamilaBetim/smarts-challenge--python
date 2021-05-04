@@ -46,4 +46,6 @@ arrayfinal= [contador, contador1, contador2]
 print("Resultado array:", arrayfinal)
 
 #Fim Script
+
+#No repositório, tem disponível o readme deste código explicando sua estrutura, o nome do arquivo é: (04-contagem-arrays)Readme.md
                 
