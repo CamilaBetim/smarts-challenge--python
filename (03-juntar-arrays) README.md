@@ -41,5 +41,6 @@ quit()
 ![image](https://user-images.githubusercontent.com/83428347/116751986-3100cc80-a9db-11eb-8e41-709352b54af5.png)
 ![image](https://user-images.githubusercontent.com/83428347/116752027-45dd6000-a9db-11eb-885d-31a170bf26af.png)
 
-
+# Aplicação
+Podemos aplicar esse tipo de script quando temos diversos arquivos com informações, e queremos uní-los, os transformando em um arquivo só.
 
