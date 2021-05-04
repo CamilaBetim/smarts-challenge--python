@@ -1,0 +1,32 @@
+
+entrada= ["ab", "bc", "abc", "cba", "ab", "ab", "cba"]
+verificacao= ["ab", "cba", "bb"]
+
+print("Array de entrada:", entrada)
+print()
+print("Array de verificação:", verificacao)
+print()
+
+contador=0
+contador1=0
+contador2=0
+n= 0
+q= len(entrada) 
+
+while n < q:
+    if entrada[n] ==verificacao[0]:
+       contador=contador+1
+    else:
+         if entrada[n] ==verificacao[1]:
+            contador1=contador1+1
+         else:
+              if entrada[n] ==verificacao[2]:
+                  contador2=contador2+1
+    n=n+1     
+                  
+    
+
+arrayfinal= [contador, contador1, contador2]
+
+print("Resultado array:", arrayfinal)
+                
