@@ -77,7 +77,8 @@ while n < q:                            # Enquanto n for menor que a quantidade 
             n = q+1
       else:
        n = array1[n]                    #Senão, n vai receber o valor da posição de número 0 do array1, e ele fará esse processo, passando por todas as posiçãoes, até n ser > q.
-```       
+``` 
+
 É importante entender a finalidade do código nessa parte: basicamente ele irá somar 1 nas posições do array item1, nesse array item1 todos os valores são 0, esses valores significam a quantidade de vezes que visitamos uma posição, por isso incialmente ele é 0. 
 
 Então nós começamos o código visitando a posição 0 do item1, nesse momento iremos somar 1 a está posição, para entendermos que ela já foi 1 vez visitada. 
