@@ -94,19 +94,21 @@ for n in range(i):      # Iremos fazer um for, o n irá percorrer a quantidade d
       while item1[n] != 2:          #1: Fará um enquanto a posição atual do item1 for diferente de 2:
            item1[n] = item1[n]+1    # A o valor existente na posição atual do item1 receberá +1
            n = array1[n]            # n irá receber o valor da posição atual do array1
+ ```
            
 É importante entender a finalidade do código nessa parte: Basicamente, ele irá pegar todos os valores presente no array item1, e verificar se tem algum que vale 0. Se tiver algum, significa que ele não foi visitado nenhuma vez, a volta acabou antes de chegar nele, porém precisamos rodar ele também. 
 Então fazemos o seguinte proesso, iremos criar um equanto, que diz que enquanto esse valor for diferente de 2 ( ou seja enquanto não finalizar a volta), o a posição do item1 atual irá receber +1 e o logo em seguida o n irá receber o valor da posição atual do array1, e esse processo será feito em looping até item1[n] ==2.
 
-```
+
 ### Aqui nós iremos armazenar na váriavel contador, a quantidade de vezes que o valor 2 aparece no array item1 ( ou seja, a quantidade de vezes que tivemos voltas no array)
 ```python
 for n in range(i):                           # O n irá percorrer a quantidade de vezes que possui na variável i, essa por sua vez armazena a quantidade de posições que no item1
     if item1[n]== 2:                         # Se a posição atual do item1 for igual a 2, então o contador irá receber +1.
         contador=contador+1
+```
 
 É importanto observar nessa parte, que o valor contido na variável contador, é quantidade de voltar que tivemos no array1.
-```
+
 
 ### Aqui, ele irá trazer para nós a quantidae de voltas no array1:
 ```python
