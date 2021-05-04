@@ -30,7 +30,7 @@
 
 5. Quais serviços e arquitetura você utilizaria, e onde empregaria cada serviço, na AWS, para fazer o deploy de uma loja virtual com uma média de 1mil visitas diárias, quando:
    1. Dinheiro não fosse o problema
-      * Resposta: 
+      * Resposta: Infelimente não possuo conhecimento necessário para responder essa questão, mas gostaria muito de aprender com vocês.
    2. Você tivesse um orçamento máximo de US$100,00
       * Resposta: 
       
