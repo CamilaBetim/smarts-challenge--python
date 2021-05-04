@@ -67,16 +67,16 @@ contador=0                 # Irá armazenar a quantidade de voltas que possui no
 contador1=0                # Irá armazenar a quantidade de voltas que possui no array2
 contador2=0                # Irá armazenar a quantidade de voltas que possui no array3
 ```
-### Agora iremo realizar o processo de verificação da quantidade de voltas que temos em nossos arrays:
+### Agora iremos realizar o processo de verificação da quantidade de voltas que temos em nossos arrays:
 ```python
 while n < q:                            # Enquanto n for menor que a quantidade de posições existentes no array1
     if 1==1:                            # Aqui nós colocamos uma condição que será sempre verdadeira ( se 1 for igual a 1 ), para ele seguir com o processo.
-      item1[n] = item1[n]+1             # Nesse momento n vale 0, então ele diz: O valor presente na posição de número 0 do item1 (o array que possui todos os valores com 0) 
+      item1[n] = item1[n]+1             # Nesse momento n vale 0, então ele diz: O valor presente na posição de número 0 do item1 (o array que possui todos os valores com 0)
                                         vai acrescentar +1.
       if item1[n] ==2:                  # Se  O valor presente na posição de número 0 do item1 for igual a 2, n vai receber +12.
             n = q+1
       else:
-       n = array1[n]                    Senão, n vai receber o valor da posição de número 0 do array1, e ele fará esse processo, passando por todas as posiçãoes, até n ser > q.
+       n = array1[n]                    #Senão, n vai receber o valor da posição de número 0 do array1, e ele fará esse processo, passando por todas as posiçãoes, até n ser > q.
 ```       
 É importante entender a finalidade do código nessa parte: basicamente ele irá somar 1 nas posições do array item1, nesse array1 todos os valores são 0, esses valores significam a quantidade de vezes que visitamos uma posição, por isso incialmente ele é 0. 
 
