@@ -42,4 +42,5 @@ quit()
 ![image](https://user-images.githubusercontent.com/83428347/116748964-9c946b00-a9d6-11eb-9fa4-7874a037ff5f.png)
 ![image](https://user-images.githubusercontent.com/83428347/116749191-f301a980-a9d6-11eb-9402-e5df32d4d815.png)
 
-
+# Aplicação
+Podemos aplicar esse tipo de código, quando quisermos colocar em ordem uma grande quantidade de dados, ou até mesmo se temos muitos dados, verificar de forma fácil qual foi o último dado armazenado, entre outros. 
