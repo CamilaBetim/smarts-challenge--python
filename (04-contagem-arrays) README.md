@@ -1,0 +1,53 @@
+# Desafio
+
+Dado o array de entrada abaixo:
+
+`['ab', 'bc', 'abc', 'cba', 'ab', 'ab', 'cba']`
+
+E dado o array de verificação abaixo:
+
+`['ab', 'cba', 'bb']`
+
+Faça um script/sistema, em qualquer linguagem de programação, que conte, e retorne um array com o resultado, de quantas vezes cada elemento do array de `verificação` existe no array de `entrada` (não é permitido utilizar funções prontas da linguagem/framework/biblioteca).
+
+O resultado deve ser um array como o abaixo:
+
+`[3, 2, 0]`
+
+# Documentação
+
+Atualize este README sobre como rodar em desenvolvimento e como efetuar o deploy, se aplicável.
+
+# Como desenvolver o script 
+
+### Primeiro nós criamos as variáveis que vão aramazenar nossos arrays, uma para o array de entrada e outra para o array de verificação:
+entrada= ["ab", "bc", "abc", "cba", "ab", "ab", "cba"]
+verificacao= ["ab", "cba", "bb"]
+
+print("Array de entrada:", entrada)
+print()
+print("Array de verificação:", verificacao)
+print()
+
+contador=0
+contador1=0
+contador2=0
+n= 0
+q= len(entrada) 
+
+while n < q:
+    if entrada[n] ==verificacao[0]:
+       contador=contador+1
+    else:
+         if entrada[n] ==verificacao[1]:
+            contador1=contador1+1
+         else:
+              if entrada[n] ==verificacao[2]:
+                  contador2=contador2+1
+    n=n+1     
+                  
+    
+
+arrayfinal= [contador, contador1, contador2]
+
+print("Resultado array:", arrayfinal)
