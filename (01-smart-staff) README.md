@@ -37,4 +37,7 @@ quit()
 
 ### A Linguagem utilizada para este desafio foi python.
 
+# Aplicação
+Podemos utilizar esse código quando quisermos que o sistema traga uma determinada informação toda vez que um número x seja armazenado, de acordo com as necessidades do sistema.
+
 
