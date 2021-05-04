@@ -107,7 +107,7 @@ for n in range(i):                           # O n irá percorrer a quantidade d
         contador=contador+1
 ```
 
-É importanto observar nessa parte, que o valor contido na variável contador, é quantidade de voltar que tivemos no array1.
+É importante observar nessa parte, que o valor contido na variável contador, é quantidade de voltas que tivemos no array1.
 
 
 ### Aqui, ele irá trazer para nós a quantidae de voltas no array1:
